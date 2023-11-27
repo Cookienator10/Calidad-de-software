@@ -1,0 +1,176 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {  width: 100%;
+height: auto;
+background-color: rgb(245, 245, 219);
+}
+
+body > .header-cv {
+    width: 103%;
+    height: 4em;
+    background-color: rgb(243, 243, 243);
+    color: rgb(16, 16, 16);
+    }
+    
+
+.header-cv > .container-navbar{
+    width: 100%;
+    height: 10%;
+    background-color: rgb(45, 1, 48);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo1, .navbar{
+    width: 5%;
+    right: 1rem;
+    margin-left: 56%;
+}
+
+.logo1{
+    margin-left: 11.5%;
+    height: 35px;
+    margin-top: 12px;
+    font-size: -5px;
+    
+}
+.navbar{
+    display: flex;
+justify-content: space-around;
+margin-right: -4%;
+
+}
+
+.navbar > li{
+    list-style: none;
+
+}
+
+.navbar > li > a{
+    text-decoration: none;
+    color: inherit;
+    width: 7.5rem;
+    border-radius: 2px;
+    border: groove 1px rgb(30, 23, 47);
+    padding: 5px;
+    float: right;
+    margin-right: 42px;
+    margin-top: -20%;
+}
+.navbar > li > a:hover {
+background-color: rgb(127, 126, 129);
+}
+ 
+.buttons{
+
+display: flex;
+justify-content: space-around;
+}
+
+
+.buttons{
+    text-decoration: none;
+    font-size: 58px;
+    width: 60px;
+    height:60px;
+    line-height: 40px;
+    text-align:center;
+    background: rgb(11, 11, 11);
+    color: rgb(23, 23, 23);
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px black;
+    transition: all 4s ease-in-out;
+    justify-content: center;
+
+}
+
+   
+
+
+
+.ss {
+    padding: 12px;
+    margin-top: 0%;
+    background:url(imagenes/pound\ puppies.png);
+    width: 101.5%;
+    height: 40rem;
+}
+
+h4 {
+    justify-content:center;
+    text-align: center;
+    padding: -5px;
+    font-size: 45px;
+    margin-left: -45%;
+    color: rgb(12, 12, 12);
+    margin-top: 95px;
+
+}
+
+h5 {
+    justify-content:center;
+    text-align: center;
+    font-size: 18px;
+    margin-left: -45%;
+    color: rgb(22, 22, 22);
+    margin-top: 75px;
+}
+.ref {
+    width: 23%;
+    height: 85em;
+    margin-top: -15%;
+    font-size: 15%;
+    margin-left: 55rem;
+}
+
+.c {
+    background-color: aqua;
+    width:90rem ;
+    height:17rem ;
+
+}
+.a {
+    background-color: brown;
+    width:103.3% ;
+    display: flex;
+    flex-direction: column;
+}
+
+
+h6 {
+    
+}
+.aviso {
+    background-color: rgb(18, 18, 18) ;
+    padding: 5rem;
+    width: 5px;
+    height: 12px;
+    margin-bottom: 78em;
+    justify-content: center;
+    margin-left: 42rem;
+    color: azure;
+}
+
+.iso {
+   
+    padding: 0;
+    background-color: rgb(247, 247, 247);
+}
+
+.iso > h1 {
+ margin-top: 94px;
+ margin-left: 15rem;
+}
+ 
+.iso > p {
+    margin-top: 24px;
+    margin-left: 14rem;
+}
+
+.logo2 {
+    margin-top: -178rem;
+ margin-left: 65rem;
+}
