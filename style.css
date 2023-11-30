@@ -182,7 +182,7 @@ p{
 
 
 .m {
-    margin-top: -14rem;
+    margin-top: -4rem;
     margin-right: -10rem;
     justify-content: center;
     display: flex;
@@ -240,7 +240,7 @@ p{
  @media(max-width:480px){
     
     body > .header-cv {
-        width: 24em;
+        width: 28.3em;
         height: 12em;
     
 } 
@@ -263,7 +263,8 @@ margin-left: 51%;
 }
 
 .ss {
-    height: 52rem;
+    height: 48.8rem;
+    width: 26.8rem;
 }
 h4{
  margin-left: 14px
@@ -276,15 +277,15 @@ h5 {
 }
 
 .ref {
-    margin-left: 25px;
+    margin-left: 74px;
     margin-top: 19PX;
     height: 15rem;
     width: 15rem;
 }
 
 .a {
-    width: 23.4rem;
-    height: 77rem;
+    width: 27.7rem;
+    height: 44rem;
     display: flex;
     flex-direction: column;
 
@@ -292,18 +293,89 @@ h5 {
 
 
 p {
-    margin-top: -
-    8rem;
-    margin-left:14rem;
+    margin-top: -2rem;
+    margin-left:4rem;
 
 }
 
 
+
 .v{
-    margin-top: 24rem;
-    margin-left: 4rem;
+    margin-top: -2rem;
+    margin-left: 6rem;
     height: 15rem;
     width: 14rem;
 
+}
+
+.b {
+   
+    height: 65rem;
+    width: 28.3rem;
+ 
+}
+
+.tittle {
+    margin-left: 4rem;
+}
+.T {
+    margin-top: 3rem;
+    margin-left: 8em;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+
+.m {
+    padding: 84px;
+}
+ 
+ 
+
+ .li {
+  
+    padding-top: -124rem;
+    align-items: center;
+ }
+
+
+ .c {
+width: 28.3em;
+height: 19rem;
+ }
+
+.aviso {
+   margin-left: 5rem;  
+   display: flex;
+   flex-direction: column;
+
+} 
+
+.iso {
+    width: 28.3rem;
+
+}
+
+.iso > .h1 {
+    margin-left: 45px;
+    justify-content: center;
+}
+
+.iso >.l {
+    display: flex;
+    flex-direction: column-reverse;
+    margin-top: 4px;
+    margin-left: 3em;
+    width: 32.7em;
+    height: 45em-;
+    font-size: 9px;
+   justify-content: center;
+   padding-inline-end: 78px;
+}
+
+.logo2 {
+    margin-top: -12px;
+    margin-left: 24em;
+    font-size: 14px;
 }
  }
