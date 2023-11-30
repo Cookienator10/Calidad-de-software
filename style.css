@@ -95,7 +95,7 @@ justify-content: space-around;
     padding: 12px;
     margin-top: 0%;
     background:url(imagenes/pound\ puppies.png);
-    width: 102.5%;
+    width: 104.5%;
     height: 40rem;
 }
 
@@ -130,7 +130,7 @@ h5 {
 
 .a {
     background-color: brown;
-    width:103.3% ;
+    width:104.3% ;
     height: 28rem;
     display: flex;
     flex-direction:row;
@@ -161,7 +161,7 @@ p{
 
 .b {
     background-color: rgb(215, 82, 82);
-    height: 32rem;
+    height: 48rem;
     width: 91.5rem;
 }
 
@@ -192,7 +192,7 @@ p{
 
 .c {
     background-color: rgb(170, 58, 58);
-    width:91.5rem ;
+    width:97.5rem ;
     height: 17rem ;
     margin-top: -32px;
 }
