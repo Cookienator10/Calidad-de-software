@@ -130,7 +130,7 @@ h5 {
 
 .a {
     background-color: brown;
-    width:104.3% ;
+    width:104.7% ;
     height: 28rem;
     display: flex;
     flex-direction:row;
@@ -142,12 +142,12 @@ h5 {
 h6 {
     font-size: 35px;
     margin-top: 45px;
-    margin-left: 14rem;
+    margin-left: 4rem;
     color: bisque;
 }
 p{
     margin-top: 2rem;
-    margin-left: -44rem;
+    margin-left: -32rem;
     padding: 11%;
     font-size: 24px;
      color: bisque;
@@ -156,13 +156,14 @@ p{
 .v{
     margin-top: 45px;
     margin-left: 1rem;
+    padding-left: 45px;
 }
 
 
 .b {
     background-color: rgb(215, 82, 82);
-    height: 55rem;
-    width: 91.5rem;
+    height: 32rem;
+    width: 92.5rem;
 }
 
 
@@ -192,7 +193,7 @@ p{
 
 .c {
     background-color: rgb(170, 58, 58);
-    width:101.5rem ;
+    width:92.5rem ;
     height: 17rem ;
     margin-top: -32px;
 }
@@ -212,8 +213,8 @@ p{
     padding: 0;
     background-color: rgb(247, 247, 247);
     margin-top: -95px;
-    height: 105px;
-    width: 75rem;
+    height: 75px;
+    width: 92.5rem;
 }
 
 .iso > h1 {
