@@ -161,7 +161,7 @@ p{
 
 .b {
     background-color: rgb(215, 82, 82);
-    height: 48rem;
+    height: 55rem;
     width: 91.5rem;
 }
 
@@ -192,7 +192,7 @@ p{
 
 .c {
     background-color: rgb(170, 58, 58);
-    width:97.5rem ;
+    width:101.5rem ;
     height: 17rem ;
     margin-top: -32px;
 }
@@ -212,8 +212,8 @@ p{
     padding: 0;
     background-color: rgb(247, 247, 247);
     margin-top: -95px;
-    height: 75px;
-    width: 92rem;
+    height: 105px;
+    width: 75rem;
 }
 
 .iso > h1 {
